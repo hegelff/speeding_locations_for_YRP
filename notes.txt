@@ -10,5 +10,5 @@ You will see a list of running notebooks in the terminal, if you have several ru
 $ jupyter notebook stop 8888
 You can use the following command to kill specific notebook (identified by the port it runs the jupyter) that you would like to stop.
 
-
+test git
 
