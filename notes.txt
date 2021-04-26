@@ -1,0 +1,14 @@
+run:
+jupyter nbconvert --to=html D:\jupyter_projects\speeding_charts\plot_speeding_veh_volume.ipynb --no-input 
+to save it under notebooks folder without input code in it.
+
+Use also --no-prompt to hide the prompts and have all the cells equally vertically aligned
+
+jupyter notebook list
+You will see a list of running notebooks in the terminal, if you have several running ones.
+
+$ jupyter notebook stop 8888
+You can use the following command to kill specific notebook (identified by the port it runs the jupyter) that you would like to stop.
+
+
+
